@@ -1,7 +1,3 @@
-# Kibo FPWP Final Project
-# Put your final project code in this file for submission
-# Add the names of the authors, a brief description, and link to your video in the file called 'readme.md'
-# Then, you can remove these instruction comments
 # The 2048 Game
 # import the random module
 import random
